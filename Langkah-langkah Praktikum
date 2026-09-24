@@ -1,0 +1,10 @@
+1.	Menjalankan database server
+2.	Mengakses phpMyAdmin
+3.	Mengenal informasi database server
+4.	Membuat database menggunakan SQL
+5.	Menampilkan daftar database
+6.	Memilih salah satu database yang ingin digunakan
+7.	Membuat database dengan nama yang sama dengan yang dibuat sebelumnya dan amati apa yang terjadi
+8.	Membuat database dengan sintak “ IF NOT EXIST” dan amati apa yang terjadi
+9.	Mencari database berdasarkan nama
+10.	Menghapus salah satu database yang telah dibuat lalu mengeceknya dengan menampilkan semua daftar database.
